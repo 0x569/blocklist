@@ -10,3 +10,19 @@ manga168.net##.dessert-frame
 manga168.net##.kln
 manga168.net###ads_fix_footer
 
+! Sep 13, 2024 https://www.sing-manga.com
+www.sing-manga.com##.ads
+
+! Sep 13, 2024 https://www.go-manga.com
+www.go-manga.com###sticky-bottom
+www.go-manga.com###sticky-bottom2
+www.go-manga.com###sticky-bottom3
+www.go-manga.com##div.center_gomanga
+www.go-manga.com##.center_gomangasolo
+
+! Sep 13, 2024 https://www.flash-manga.com
+www.flash-manga.com##.header-ads-section
+
+! Sep 13, 2024 https://www.mangakimi.com
+www.mangakimi.com##.header-ads-section
+
