@@ -19,6 +19,8 @@ www.go-manga.com###sticky-bottom2
 www.go-manga.com###sticky-bottom3
 www.go-manga.com##div.center_gomanga
 www.go-manga.com##.center_gomangasolo
+www.go-manga.com##div.center_gomanga3
+www.go-manga.com##div.center_gomangasolo3
 
 ! Sep 13, 2024 https://www.flash-manga.com
 www.flash-manga.com##.header-ads-section
