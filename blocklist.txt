@@ -26,3 +26,5 @@ www.flash-manga.com##.header-ads-section
 ! Sep 13, 2024 https://www.mangakimi.com
 www.mangakimi.com##.header-ads-section
 
+! Sep 13, 2024 https://www.037hdmovie.com
+www.037hdmovie.com###ads-sidebar
