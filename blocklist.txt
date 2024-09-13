@@ -21,6 +21,9 @@ www.go-manga.com##div.center_gomanga
 www.go-manga.com##.center_gomangasolo
 www.go-manga.com##div.center_gomanga3
 www.go-manga.com##div.center_gomangasolo3
+www.go-manga.com##div.center_gomanga2
+www.go-manga.com##div.center_gomangasolo2
+
 
 ! Sep 13, 2024 https://www.flash-manga.com
 www.flash-manga.com##.header-ads-section
