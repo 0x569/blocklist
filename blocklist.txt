@@ -4,6 +4,7 @@ www.037hdmovie.com###ads-bottom-player
 www.037hdmovie.com###ads-popup
 www.037hdmovie.com###ads-index
 www.037hdmovie.com###ads-sidebar-single-top
+www.037hdmovie.com###ads-sidebar
 
 ! Sep 8, 2024 https://manga168.net
 manga168.net##.dessert-frame
@@ -24,12 +25,8 @@ www.go-manga.com##div.center_gomangasolo3
 www.go-manga.com##div.center_gomanga2
 www.go-manga.com##div.center_gomangasolo2
 
-
 ! Sep 13, 2024 https://www.flash-manga.com
 www.flash-manga.com##.header-ads-section
 
 ! Sep 13, 2024 https://www.mangakimi.com
 www.mangakimi.com##.header-ads-section
-
-! Sep 13, 2024 https://www.037hdmovie.com
-www.037hdmovie.com###ads-sidebar
