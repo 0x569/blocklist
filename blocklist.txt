@@ -30,3 +30,7 @@ www.flash-manga.com##.header-ads-section
 
 ! Sep 13, 2024 https://www.mangakimi.com
 www.mangakimi.com##.header-ads-section
+
+! Dec 7, 2024 https://www.123-hd.com
+www.123-hd.com###banner_top
+
