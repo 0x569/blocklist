@@ -34,3 +34,9 @@ www.mangakimi.com##.header-ads-section
 ! Dec 7, 2024 https://www.123-hd.com
 www.123-hd.com###banner_top
 
+! Dec 8, 2024 https://www.serie-day.com
+www.serie-day.com##.adl
+www.serie-day.com##.right-menu > .adhl
+www.serie-day.com##.adlf > .adhl
+
+
