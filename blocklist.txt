@@ -43,4 +43,11 @@ www.serie-day.com##.adlf > .adhl
 www.serie-day.com##.ad
 www.serie-day.com##.adb
 
+! Dec 13, 2024 https://www.24-hd.com
+www.24-hd.com##.ad
+www.24-hd.com##.content-col2 > .adcen
+www.24-hd.com##.right-menu > .adhl
+www.24-hd.com##.adlf > .adhl
+www.24-hd.com##.adl
+
 
