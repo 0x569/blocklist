@@ -50,4 +50,20 @@ www.24-hd.com##.right-menu > .adhl
 www.24-hd.com##.adlf > .adhl
 www.24-hd.com##.adl
 
+! Dec 20, 2024 https://www.up-manga.com
+www.up-manga.com###sticky-bottom
+www.up-manga.com###sticky-bottom2
+www.up-manga.com###sticky-bottom3
+
+! Dec 20, 2024 https://22-hd.com
+22-hd.com##.banner_cen
+22-hd.com##.banner_right
+22-hd.com##.banner_left
+22-hd.com##.banner-float
+22-hd.com##div.bottom-center:nth-of-type(3)
+22-hd.com##.banner-player
+22-hd.com##.banner-left
+22-hd.com##.banner-right
+22-hd.com##div.bottom-center > .bottom-center
+
 
