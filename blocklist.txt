@@ -55,6 +55,7 @@ www.up-manga.com###sticky-bottom
 www.up-manga.com###sticky-bottom2
 www.up-manga.com###sticky-bottom3
 www.up-manga.com##div.center_upmanga
+www.up-manga.com##div.center_upmanga3
 
 ! Dec 20, 2024 https://22-hd.com
 22-hd.com##.banner_cen
