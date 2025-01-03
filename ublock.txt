@@ -67,5 +67,3 @@ www.up-manga.com##div.center_upmanga3
 22-hd.com##.banner-left
 22-hd.com##.banner-right
 22-hd.com##div.bottom-center > .bottom-center
-
-
