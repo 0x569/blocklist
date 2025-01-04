@@ -70,3 +70,9 @@ www.up-manga.com##.center_upmangasolo2
 22-hd.com##.banner-left
 22-hd.com##.banner-right
 22-hd.com##div.bottom-center > .bottom-center
+
+! Jan 4, 2025 https://animeyuzu.com
+animeyuzu.com##.code-block-1.code-block
+animeyuzu.com##.code-block-2.code-block
+animeyuzu.com##.code-block-3.code-block
+animeyuzu.com##.code-block-4.code-block
