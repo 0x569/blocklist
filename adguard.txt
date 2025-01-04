@@ -1,1 +1,78 @@
-||*.manga168.net
+! Sep 8, 2024 https://www.037hdmovie.com
+037hdmovie.com###ads-single
+037hdmovie.com###ads-bottom-player
+037hdmovie.com###ads-popup
+037hdmovie.com###ads-index
+037hdmovie.com###ads-sidebar-single-top
+037hdmovie.com###ads-sidebar
+
+! Sep 8, 2024 https://manga168.net
+manga168.net##.dessert-frame
+manga168.net##.kln
+manga168.net###ads_fix_footer
+
+! Sep 13, 2024 https://www.sing-manga.com
+sing-manga.com##.ads
+
+! Sep 13, 2024 https://www.go-manga.com
+go-manga.com###sticky-bottom
+go-manga.com###sticky-bottom2
+go-manga.com###sticky-bottom3
+go-manga.com##div.center_gomanga
+go-manga.com##.center_gomangasolo
+go-manga.com##div.center_gomanga3
+go-manga.com##div.center_gomangasolo3
+go-manga.com##div.center_gomanga2
+go-manga.com##div.center_gomangasolo2
+
+! Sep 13, 2024 https://www.flash-manga.com
+flash-manga.com##.header-ads-section
+
+! Sep 13, 2024 https://www.mangakimi.com
+mangakimi.com##.header-ads-section
+
+! Dec 7, 2024 https://www.123-hd.com
+123-hd.com###banner_top
+123-hd.com###banner_pmid
+123-hd.com###banner_plow
+
+! Dec 8, 2024 https://www.serie-day.com
+serie-day.com##.adl
+serie-day.com##.right-menu > .adhl
+serie-day.com##.adlf > .adhl
+serie-day.com##.ad
+serie-day.com##.adb
+
+! Dec 13, 2024 https://www.24-hd.com
+24-hd.com##.ad
+24-hd.com##.content-col2 > .adcen
+24-hd.com##.right-menu > .adhl
+24-hd.com##.adlf > .adhl
+24-hd.com##.adl
+
+! Dec 20, 2024 https://www.up-manga.com
+up-manga.com###sticky-bottom
+up-manga.com###sticky-bottom2
+up-manga.com###sticky-bottom3
+up-manga.com##div.center_upmanga
+up-manga.com##div.center_upmanga2
+up-manga.com##div.center_upmanga3
+up-manga.com##.center_upmangasolo
+up-manga.com##.center_upmangasolo2
+
+! Dec 20, 2024 https://22-hd.com
+22-hd.com##.banner_cen
+22-hd.com##.banner_right
+22-hd.com##.banner_left
+22-hd.com##.banner-float
+22-hd.com##div.bottom-center:nth-of-type(3)
+22-hd.com##.banner-player
+22-hd.com##.banner-left
+22-hd.com##.banner-right
+22-hd.com##div.bottom-center > .bottom-center
+
+! Jan 4, 2025 https://animeyuzu.com
+animeyuzu.com##.code-block-1.code-block
+animeyuzu.com##.code-block-2.code-block
+animeyuzu.com##.code-block-3.code-block
+animeyuzu.com##.code-block-4.code-block
