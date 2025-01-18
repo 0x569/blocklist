@@ -10,6 +10,7 @@ www.037hdmovie.com###ads-sidebar
 manga168.net##.dessert-frame
 manga168.net##.kln
 manga168.net###ads_fix_footer
+manga168.net###ads_fox_bottom
 
 ! Sep 13, 2024 https://www.sing-manga.com
 www.sing-manga.com##.ads
