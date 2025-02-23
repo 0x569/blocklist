@@ -77,3 +77,7 @@ animeyuzu.com##.code-block-1.code-block
 animeyuzu.com##.code-block-2.code-block
 animeyuzu.com##.code-block-3.code-block
 animeyuzu.com##.code-block-4.code-block
+
+! Feb 23, 2025 https://www.anime-sugoi.com
+www.anime-sugoi.com##div.container > .row > .center_lnwphp
+www.anime-sugoi.com##.panel-body > center
