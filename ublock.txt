@@ -60,6 +60,7 @@ www.up-manga.com##div.center_upmanga2
 www.up-manga.com##div.center_upmanga3
 www.up-manga.com##.center_upmangasolo
 www.up-manga.com##.center_upmangasolo2
+www.up-manga.com##div.center_upmangaza
 
 ! Dec 20, 2024 https://22-hd.com
 22-hd.com##.banner_cen
